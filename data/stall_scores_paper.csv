@@ -1,0 +1,9 @@
+stall_id,category,preference_score,P_perceptual_0to5,B_behavioral_0to5,relative_engagement_pct,advert_config,product_event_fit,demographic_alignment
+1,Flower and Plant,20,3.958,2.755,60.1,H,L,L
+2,Fresh Produce,14,2.664,1.589,34.7,M,L,L
+3,Fresh Produce,9,2.352,1.943,42.7,M,M,M
+4,Beverages,18,3.579,4.079,90.0,H,H,H
+5,Sweets and Baked Goods,10,1.491,2.714,59.8,H,H,H
+6,Prepared Meal,8,1.438,4.578,74.8,H,H,H
+7,Japanese Food,6,0.625,4.330,86.0,M,H,H
+8,Hot Food and Seafood,21,3.710,2.853,36.4,L,M,M

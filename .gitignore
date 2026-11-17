@@ -1,0 +1,7 @@
+data/results/*
+!data/results/.gitkeep
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+raw_private/

@@ -1,0 +1,4 @@
+video,seconds_processed,unique_tracks,avg_people_per_frame,tracks_>=2s,stops,mean_dwell_s,max_dwell_s,processing_fps
+clip02,89.6,103,6.75,49,31,15.6,51.8,0.8
+clip05,89.6,121,9.32,64,57,12.9,46.7,2.4
+clip08,89.6,100,7.47,50,48,12.0,43.0,2.5

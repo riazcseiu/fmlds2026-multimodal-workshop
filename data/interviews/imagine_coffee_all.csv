@@ -1,0 +1,981 @@
+event,phase,modality,session,speaker,role,native_japanese,has_child,turn,text
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,1,Was it easy to notice the stalls?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,2,"Yes, I'm used to it."
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,3,So you've been here before?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,4,Yes
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,5,Do you think the goods are suitable for morning?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,6,Yes
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,7,Was it easy to know what are the stalls selling?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,8,I know it because I've seen it on Instagram beforehand.
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,9,What if you didn't see it on Instagram beforehand?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,10,It is possible to know by seeing people's face.
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,11,Do you think children can enjoy this event too?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,12,Yes
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,13,Was it easy to know the movement from the stalls until the dinning space?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,14,Yes
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,15,Do you think they did something to deal with the hot climate?
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,16,What do you think is needed to make this space more appealing?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,17,More dinning space.
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,18,Do you wish to attend this event again?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,19,Yes
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,20,What kind of stall do you prefer to add?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,21,Nothing
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,22,How many stores are there at first?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,23,When there is a lot of stalls there are baked sweets and restaurant-like shops.
+Imagine Coffee (Matsue),1,onsite,S01,INT,interviewer,Yes,unknown,24,Is there any difference between the image on Instagram and reality?
+Imagine Coffee (Matsue),1,onsite,S01,S01,participant,Yes,unknown,25,It is more visible on Instagram.
+Imagine Coffee (Matsue),1,onsite,S02,INT,interviewer,Yes,unknown,1,Was it easy to notice the stalls?
+Imagine Coffee (Matsue),1,onsite,S02,S02,participant,Yes,unknown,2,It became easier. At first there was no signage so it was not easy.
+Imagine Coffee (Matsue),1,onsite,S02,INT,interviewer,Yes,unknown,3,Do you think the goods are suitable for morning?
+Imagine Coffee (Matsue),1,onsite,S02,S02,participant,Yes,unknown,4,"Yes, I saw kakigori that looked delicious."
+Imagine Coffee (Matsue),1,onsite,S02,INT,interviewer,Yes,unknown,5,Do you think children can enjoy this event too?
+Imagine Coffee (Matsue),1,onsite,S02,S02,participant,Yes,unknown,6,Yes
+Imagine Coffee (Matsue),1,onsite,S02,INT,interviewer,Yes,unknown,7,Was it easy to know the movement from the stalls until the dinning space?
+Imagine Coffee (Matsue),1,onsite,S02,S02,participant,Yes,unknown,8,Yes
+Imagine Coffee (Matsue),1,onsite,S02,INT,interviewer,Yes,unknown,9,Do you think they did something to deal with the hot climate?
+Imagine Coffee (Matsue),1,onsite,S02,S02,participant,Yes,unknown,10,No
+Imagine Coffee (Matsue),1,onsite,S02,INT,interviewer,Yes,unknown,11,What do you think is needed to make this space more appealing?
+Imagine Coffee (Matsue),1,onsite,S02,S02,participant,Yes,unknown,12,Parking space
+Imagine Coffee (Matsue),1,onsite,S02,INT,interviewer,Yes,unknown,13,Do you wish to attend this event again?
+Imagine Coffee (Matsue),1,onsite,S02,S02,participant,Yes,unknown,14,Yes. I'd like to come and buy vegetables.
+Imagine Coffee (Matsue),1,onsite,S02,INT,interviewer,Yes,unknown,15,What kind of stall do you prefer to add?
+Imagine Coffee (Matsue),1,onsite,S02,S02,participant,Yes,unknown,16,Curry stall.
+Imagine Coffee (Matsue),1,onsite,S02,INT,interviewer,Yes,unknown,17,Is there any difference between the image on Instagram and reality?
+Imagine Coffee (Matsue),1,onsite,S02,S02,participant,Yes,unknown,18,"No, because it is easy to imagine the shops that will open because they are listed on instagram"
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,1,Was it easy to notice the stalls?
+Imagine Coffee (Matsue),1,onsite,S03,S03,participant,Yes,unknown,2,"Yes, beacause I can easily see the stall and the stall owner's face."
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,3,Do you think the goods are suitable for morning?
+Imagine Coffee (Matsue),1,onsite,S03,S03,participant,Yes,unknown,4,They have main dishes and also the veggies and fishes are suitable fro morning.
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,5,Was it easy to know what are the stalls selling?
+Imagine Coffee (Matsue),1,onsite,S03,S03,participant,Yes,unknown,6,Yes
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,7,Do you think children can enjoy this event too?
+Imagine Coffee (Matsue),1,onsite,S03,S03,participant,Yes,unknown,8,"Yes, because the event space is wide and children get to enjoy while remain visible for their parents."
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,9,Was it easy to know the movement from the stalls until the dinning space?
+Imagine Coffee (Matsue),1,onsite,S03,S03,participant,Yes,unknown,10,Yes
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,11,Do you think they did something to deal with the hot climate?
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,12,What do you think is needed to make this space more appealing?
+Imagine Coffee (Matsue),1,onsite,S03,S03,participant,Yes,unknown,13,It would be more interesting if the stalls are oriented in a more chaotic way.
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,14,Do you wish to attend this event again?
+Imagine Coffee (Matsue),1,onsite,S03,S03,participant,Yes,unknown,15,"Yes, I like the relaxing vibe."
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,16,What kind of stall do you prefer to add?
+Imagine Coffee (Matsue),1,onsite,S03,S03,participant,Yes,unknown,17,Stalls that sells food that allows people to walk while eating.
+Imagine Coffee (Matsue),1,onsite,S03,INT,interviewer,Yes,unknown,18,Is there any difference between the image on Instagram and reality?
+Imagine Coffee (Matsue),1,onsite,S03,S03,participant,Yes,unknown,19,No but I saw that it is easily accessible on the Instagram and so I came.
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,1,Was it easy to notice the stalls?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,2,Yes
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,3,Do you think the goods are suitable for morning?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,4,Foods like hot sandwiches and coffee are suitable.
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,5,Was it easy to know what are the stalls selling?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,6,Yes
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,7,Do you think children can enjoy this event too?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,8,It depends on the age because it doesnt't seem like a place to play.
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,9,Was it easy to know the movement from the stalls until the dinning space?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,10,Yes
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,11,Do you think they did something to deal with the hot climate?
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,12,What do you think is needed to make this space more appealing?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,13,Not really
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,14,Do you wish to attend this event again?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,15,Yes
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,16,What kind of stall do you prefer to add?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,17,Nothing
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,18,Is there any difference between the image on Instagram and reality?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,19,No
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,20,How many times did you visit this place? Do you come here often?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,21,I don't remember how many.
+Imagine Coffee (Matsue),1,onsite,S04,INT,interviewer,Yes,unknown,22,Did you come here during winter? How was it?
+Imagine Coffee (Matsue),1,onsite,S04,S04,participant,Yes,unknown,23,"Many dishes were hot, such as soy milk-based dishes, curry and soba noodles."
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,1,Was it easy to notice the stalls?
+Imagine Coffee (Matsue),1,onsite,S05,S05,participant,Yes,unknown,2,Yes
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,3,Do you think the goods are suitable for morning?
+Imagine Coffee (Matsue),1,onsite,S05,S05,participant,Yes,unknown,4,Yes
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,5,Was it easy to know what are the stalls selling?
+Imagine Coffee (Matsue),1,onsite,S05,S05,participant,Yes,unknown,6,Yes
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,7,Do you think children can enjoy this event too?
+Imagine Coffee (Matsue),1,onsite,S05,S05,participant,Yes,unknown,8,"No, There is nothing that pulls the attention of children."
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,9,Was it easy to know the movement from the stalls until the dinning space?
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,10,Do you think they did something to deal with the hot climate?
+Imagine Coffee (Matsue),1,onsite,S05,S05,participant,Yes,unknown,11,Yeah they have the tend
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,12,What do you think is needed to make this space more appealing?
+Imagine Coffee (Matsue),1,onsite,S05,S05,participant,Yes,unknown,13,It depends on the season but it would be great if more people visit.
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,14,Do you wish to attend this event again?
+Imagine Coffee (Matsue),1,onsite,S05,S05,participant,Yes,unknown,15,Yes
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,16,What kind of stall do you prefer to add?
+Imagine Coffee (Matsue),1,onsite,S05,S05,participant,Yes,unknown,17,Nothing
+Imagine Coffee (Matsue),1,onsite,S05,INT,interviewer,Yes,unknown,18,Is there any difference between the image on Instagram and reality?
+Imagine Coffee (Matsue),1,onsite,S06,INT,interviewer,Yes,unknown,1,What do you keep in mind when arranging the desks and chairs in the eating and drinking areas?
+Imagine Coffee (Matsue),1,onsite,S06,S06,participant,Yes,unknown,2,"The dinning space was not there before, I started to put it there 2 or 3 times before this event so people can stay and relax. But about the sunlight, it's different on every seasons. So I will think about it."
+Imagine Coffee (Matsue),1,onsite,S06,INT,interviewer,Yes,unknown,3,Did you do anything to help people know what are the stalls selling? Like putting signage.
+Imagine Coffee (Matsue),1,onsite,S06,S06,participant,Yes,unknown,4,"The signage are prepared by the stall owners themselves. But I did oriented the stalls so people know it easily like, vegetables, fishes, snacks, rice are oriented separately."
+Imagine Coffee (Matsue),1,onsite,S06,INT,interviewer,Yes,unknown,5,How did you decide which stalls to be here on the day?
+Imagine Coffee (Matsue),1,onsite,S06,S06,participant,Yes,unknown,6,I invited people who are related to the Imagine Coffee and the people that I know.
+Imagine Coffee (Matsue),1,onsite,S06,INT,interviewer,Yes,unknown,7,Did you do soemthing so that people from all age groups can enjoy this space?
+Imagine Coffee (Matsue),1,onsite,S06,S06,participant,Yes,unknown,8,I considered about the time they would spend to stay and allow them to be able to sit down and I hope the visitors come with family.
+Imagine Coffee (Matsue),1,onsite,S06,INT,interviewer,Yes,unknown,9,Did you do something to deal with all the seasons and weather?
+Imagine Coffee (Matsue),1,onsite,S06,S06,participant,Yes,unknown,10,"It doesn't rain every time this event was held but just 2 or 3 times it rained and only 1 time we had to end the event due to the rain. I do believe the weather forecast so I don't do anything to deal with rainy days. Also the event is short, it's only 2 hours so I don't really mind the weather or seasons."
+Imagine Coffee (Matsue),1,onsite,S06,INT,interviewer,Yes,unknown,11,What do you want the visitors to feel by organising this event?
+Imagine Coffee (Matsue),1,onsite,S06,S06,participant,Yes,unknown,12,It 's not really an event but more like a daily morning market. I want people to feel it as an once a mont enjoyment.
+Imagine Coffee (Matsue),1,onsite,S06,INT,interviewer,Yes,unknown,13,How do you use Instagram to advertise?
+Imagine Coffee (Matsue),1,onsite,S06,S06,participant,Yes,unknown,14,"The advertising is concentrated on a short period of time, but no advance notice is given. However, certain customers come every time and the original purpose has been achieved, so there is no need for excessive publicity."
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,1,Was it easy to notice the stalls?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,2,Yes. But this is my second time so I know. During the first time I had some confusion and had to ask someone to know.
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,3,Do you think the goods are suitable for morning?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,4,Yes. There is nothing I wanted to buy before hand but there was something I think is suitable for breakfast when I came.
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,5,Was it easy to know what are the stalls selling?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,6,Yes
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,7,Are the signs clearly visible? Is it easy to understand?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,8,It is hard to see from the road.
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,9,Is it better to put something big to pull attention?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,10,"Yes, I think it is good to put it on the tent and show the customers what is the shop."
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,11,Did you do research on which shop you wanted to visit beforehand? What shop is it?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,12,"We did ddo research on what shops they have, so we just wanna give it a try but there is no shops that we actually wanted to go."
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,13,"If there are no shops you would like to visit beforehand, are there any after you came?"
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,14,"Yes, the stalls that sell small items."
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,15,"If there are no shops you would like to visit beforehand, are there any after you came?"
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,16,No
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,17,Do you think children can enjoy this event too?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,18,I think it is better to have kiddie ride which are free.
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,19,"Can it be enjoyed with all five senses (sight, hearing, taste, smell and touch)?"
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,20,Yes. I touched some leaves and flower and the morning glory is nostalgic for me. But the flowers in shops are just for showing we cannot touch them
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,21,Was it easy to find your way from the entrance to the eating area?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,22,Yes
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,23,"Were measures taken against the heat (e.g. parasols, fans)?"
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,24,"No, but they have natural wind flowing through."
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,25,What could be done to make this place more attractive?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,26,It would be great to have more customers. So it is better to promote the event to make it well known.
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,27,Do you wish to attend this event again?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,28,Yes. It would be great if it is cooler.
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,29,"If you were to add one more shop, what would it be?"
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,30,"Food stalls. Since the temperature will drop soon, it would be great to have warm food like miso soup."
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,31,Do you use Instagram?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,32,Yes
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,33,Do you check out their Instagram?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,34,They tell us about the event date and time on their Insatgram.
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,35,Is there any difference between the image on Instagram and reality?
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,36,Is there anything that you think they did well with the Instagram post? Or is there anyhting to improve?
+Imagine Coffee (Matsue),1,onsite,S07,INT,interviewer,Yes,unknown,37,Was there anything different about the information you got from Instagram?
+Imagine Coffee (Matsue),1,onsite,S07,S07,participant,Yes,unknown,38,No
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,1,Was it easy to notice the stalls?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,2,"Yes, it was easy to understand."
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,3,Do you think the goods are suitable for morning?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,4,"Yes, because there are lots of light food like vegetables."
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,5,Was it easy to know what are the stalls selling?
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,6,Are the signs clearly visible? Is it easy to understand?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,7,"The banners make it easy to see, but sometimes you can't see the store next door because it is too big. The vertical arrangement makes it hard to tell the boundaries of the stores."
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,8,Do you know which shops you want to visit by researching in advance? What is that shop?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,9,Vegetables stall because they have vegetables that are rarely seen.
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,10,"If there are no shops you would like to visit beforehand, are there any after you came?"
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,11,"Hot sandwich. It would be nice if they have cold drinks, as it was still hot at 8:00am. It is also nice to have taste test."
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,12,Do you think children can enjoy this event too?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,13,"I think they can enjoy it. Because there are many stores run by family. But there are not much places to take children if the customers bring their own children and there is a lot of asphalt, and many expensive products and the kids might break them."
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,14,"Can it be enjoyed with all five senses (sight, hearing, taste, smell and touch)?"
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,15,I enjoy more prominent colors such as red. I want more colors because there are not many flashy colors. I don't think background music is needed since it doesn't fit the atmosphere. It might be better without music. It would be fun if there were more things to touch.
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,16,Was it easy to find your way from the entrance to the eating area?
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,17,"Were measures taken against the heat (e.g. parasols, fans)?"
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,18,It is not needed since the weather is not bad but it might be needed between July and August.
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,19,What could be done to make this place more attractive?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,20,"I would be better to have more touchable and colorful things for everyone to enjoy and for young children to enjoy and learn. Also it is better to create spaces for children to play in the other empty parking lot that customers don't use. If not, they just come, eat, and leave."
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,21,Do you wish to attend this event again?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,22,"Not sure. The vegetables are good but a bit expensive. They might sell different things next time. If they sell the same things everytime, I wouldn't think about coming that often"
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,23,"If you were to add one more shop, what would it be?"
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,24,"The concept is difficult to understand, so it is hard to think of it. If the target audience is families, it would be nice to have a flea market for toys and other items. If you want to broaden the target audience who attend, you should have something fun for both adults and children."
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,25,Is there any difference between the image on Instagram and reality?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,26,I don't know because I don't use Instagram
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,27,What do you think is good or could be improved in the way they post and present?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,28,I don't know because I don't use Instagram
+Imagine Coffee (Matsue),1,onsite,S08,INT,interviewer,Yes,unknown,29,Was there anything different about the information you got from Instagram?
+Imagine Coffee (Matsue),1,onsite,S08,S08,participant,Yes,unknown,30,I don't know because I don't use Instagram
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,1,I think now yes yeah because maybe last time my idea about farmer market here was different but now I understand that maybe it's not like selling like farm products maybe they offered you food and more products not not just like food like ingredients or something like that so now I I can see this with like with different perspective so I think it's now I can see this in the street and I say ohh it's farmer market
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,2,OK so now you are at this farmer market where you think this might be the first place you visit
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,3,I think I’m still going to this place
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,4,yeah this place
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,5,ah the green table
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,6,because it seems like he's doing something there like like something for eating
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,7,the green one OK
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,8,I don't know if that's for me seems like that
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,9,why you think he's doing something for eating
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,10,because I saw like a bowl
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,11,ok he have a bowl
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,12,I see yeah yeah
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,13,yeah so maybe it's like ohh he's doing something but I don't know
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,14,what do you mean machine like making juices
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,15,yeah it's like a blender
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,16,ah yeah like blender ok
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,17,OK and what do you think why do you think the first one you choose they don't make food
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,18,because it seems like everything is package
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,19,ah I see in package yeah OK
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,20,so things like that
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,21,this one we didn't see in the video it's a bit different
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,22,ohh maybe maybe for me that's the first
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,23,and now he's the first one you want to go
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,24,yes because for the flowers I don't know it seems cute like and seeing these when I maybe if I am going to pass over these St. yeah I saw these flowers it's like I immediately I'm going to put my attention there and I the baskets are beautiful it's like the baskets invite you
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,25,ah I see these look really beautiful beautiful yes do you see the shop behind that if you like seeing this flower shop only
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,26,maybe without the flower it would not be like more very attractive like it's just a place but with the flowers it's like yes it's it's beautiful
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,27,maybe I haven't seen this table before yeah maybe and because it is like another from these from here it seems like another package products in package so I don't think that they sell food but OK it's new for me
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,28,and how about all this anything you describe to me inside the shop is there anything or place
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,29,no not really
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,30,OK can we are more in their food corner now would you like to buy something try out something
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,31,I don't know maybe maybe maybe maybe if I see some color maybe if I see what are they selling maybe I coulld buy but it's not like from this view it's like immediately I'm not going to buy there I have to be like more near to see what are they selling
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,32,because from here I I can't identify like what what are you selling it's not like a picture or something so it's difficult for me to recognize what what are they selling
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,33,so when you go to a market you are what your usual like route like you go straight for food you're walking around
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,34,usually I’m walking around not not like with the intention of buying food but if some if something attract like my attention I would buy
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,35,now we have a closer look on that can you know what they are selling
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,36,Oh my God the fish fish and this is and I don't know
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,37,You can guess
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,38,I don't know it seems like octopus
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,39,Octopus ok
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,40,It seem because it has like these like little ball
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,41,yeah ohh yeah yeah it’s huge ball
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,42,but I don't know anything and so for me it's not so attractive
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,43,how about the store next door
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,44,I don't know what like maybe fish too because they have like I don't know if they have like our little bag and with the fish so maybe it's fish too or something related to seafood or something it is still quite curious here it's like they have fish on the floor and then have these exhibition for food and also have like a cooker so I'm not understanding how everything is related it's like they some fish but also food or they cook the fish in a cooker
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,45,I see OK they sell sandwich hot sandwich
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,46,OK yes maybe maybe because I haven't looked in front of that yeah yeah and the fish
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,47,and the fish what do you think about the fish I think you keep talking about the fish do you like fish
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,48,yes I like fish but like for for me it's you sell food or you sell ingredients not not what not in the same place
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,49,ah you mean cook and raw they shouldn't be selling together
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,50,yes
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,51,ohk OK
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,52,but that's why I'm not understanding if this they they cook the fish or just they have the fish like there like I'm selling fish
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,53,so it's better if like they they show you the fish you choose that they cook this
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,54,maybe it could be a good experience
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,55,yes but just fish then not so much
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,56,yes I see
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,57,"and and fish is in like on the floor, so I know that maybe it's like a cultural thing or something for me it's like when you have this kind of fruit like fresh products fish or meat or something it's better to have that on a table or something not on the floor"
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,58,why
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,59,maybe because it's it's not related like to my country yeah like hygienic
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,60,yeah it don’t look so hygienic
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,61,but I don't know if here it's normal so I I don't want to be like
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,62,ohh you can say whatever you think is fine
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,63,OK and you know what it is
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,64,Yes a little place for eating
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,65,yeah so you think would you use this place to
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,66,yes but because there is no more places to sit not because I really like how that looks
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,67,ohh there are another place to sit so why are you can you tell me why you don't know why this place
+Imagine Coffee (Matsue),2,video,R01,R01,participant,No,No,68,maybe it doesn't seem so comfortable because it's like it's like the day and there is like sun so you can sit there but it's not like a shadow or something like you can you are you're going to have all the sun on your face
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,69,OK that's great thank you
+Imagine Coffee (Matsue),2,video,R01,INT,interviewer,No,No,70,First places it's a farmer market does it what image you have when you looking at this is it the farmer market that you expect to see
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,1,yeah what you expect to see them sell what kind of things
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,2,it’s look like in the not very rural area
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,3,so you want the rural area OK
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,4,this is like in the side of city and then yeah
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,5,what thing you think they should be selling at the farmers market
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,6,some vegetable and then like some food
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,7,so you if you arrive here with your family for example do you want to check out any shops
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,8,sure
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,9,so where do you think you want to try
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,10,yeah this is like this is not permanent permanent market it's like temporary market
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,11,mhmm
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,12,for temporary market it's like people always hurry to see what what they sell
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,13,yeah
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,14,for me my my opinion this is like it's not like like tourism area people can afford sightseeing and then not not not daily to come.
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,15,why you think this is a tourism area
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,16,this is like like small tent temporary
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,17,yeah temporary it's not for tourists
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,18,temporary like event right
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,19,yeah so do you interest on this kind of things or if you see that on the street would you like to go
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,20,sure
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,21,and where you want to go
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,22,first I like to go around first OK around first then decide what kind of thing that I can buy there
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,23,So what kind of thing will make you wanted to buy
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,24,like Japanese foods Japanese food and then some some vegetable
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,25,vegetable OK do you think any shop here is selling food or vegetable
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,26,yeah what make you think they're selling fruit or vegetable
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,27,I can see from that screen some food here like this
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,28,yeah
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,29,and then some fees and then yeah
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,30,do you want to buy from this shop
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,31,sure this is they put it properly and then feasible
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,32,you know what they're selling
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,33,just like octopus
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,34,octopus OK yeah OK and
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,35,cake
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,36,OK
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,37,and then I don't know what is this I can’t recognize that
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,38,so over there is seaweed
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,39,this one
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,40,yeah and what you say is cake is sandwich sandwich yeah octopus I guess you mean takoyaki right
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,41,yeah some kind of fish
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,42,like a snail
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,43,like snail yeah you want to buy that
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,44,yes
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,45,ohh really that's nice and if you buy that do you want to like bring home or like sit there to eat
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,46,I had to sit there and eat there
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,47,OK so actually now we are on one of the seat and do you think you how the view from here compared to all the view before
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,48,it's better to put some chair and then some table to make people can eat their properly
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,49,it's missing a bit of chair and table
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,50,yeah
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,51,I see
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,52,and then the thing this is only on summer right
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,53,yeah
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,54,this is like on summer how how about in another season
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,55,it's actually the same so get colder
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,56,get colder and then yeah I mean just make like a Border some Protection from from the weather
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,57,yeah
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,58,like this
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,59,yeah it just really like that so how do you think the seating like that you wanted to like buy something and then sit there to eat
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,60,sure sure
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,61,yeah OK
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,62,I like this
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,63,you like this why you like this
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,64,it is it like street food
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,65,street food
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,66,like street food and that I can enjoy sit there and look at the the people make a food there and then selling that's also entertain entertain
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,67,I see I see that's good that's good and do you think if you bring your kid they also enjoy it
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,68,sure
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,69,yeah
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,70,yeah
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,71,they also like the street food seeing people
+Imagine Coffee (Matsue),2,video,R02,R02,participant,No,Yes,72,yes
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,73,that's great
+Imagine Coffee (Matsue),2,video,R02,INT,interviewer,No,Yes,74,Now to the next one same question you're coming from this side and you see these store where you want to try first
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,1,I will go this one this store
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,2,what is written there
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,3,氷it’s like ice
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,4,yeah you go to the 氷 store OK
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,5,because I think the are maybe sell some like shakes
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,6,shakes OK
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,7,I am just thinking like ohh this whatever it may be like shake something like drink
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,8,you think like those same store
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,9,is it different ohh yeah maybe it's a different one because like two groups that need help
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,10,yeah yeah yeah
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,11,ohh OK
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,12,maybe because they are in the under the same tent making thing it's the same store I guess so you think to buy them watermelon and then do a shake
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,13,ohh yes
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,14,that's that's how interesting OK and after you imagine after you buy the shake and where do you want to drink it you bring it home
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,15,mm-hmm
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,16,yeah because because the weather looks nice
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,17,mmm
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,18,yeah there's some chair over there yeah you want to go there to sit yeah
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,19,maybe like if it's in the summer so you go on the ship side
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,20,I see this is the entrance of the market yeah coming from this side so do you recognize some store that you were talking about before
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,21,I cannot recognize this one before
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,22,yeah this one was a little bit hidden on the left side right and how about the watermelon and the shake did you see it
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,23,I cannot see
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,24,you cannot see them from this angle OK and we are at flowers again how about the flowers
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,25,I think I will pass
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,26,that's still not flowers for girlfriend and compared to the flower this time and the one before which one you think it’s more
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,27,yeah it looks more interesting because it has many types of flower
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,28,OK many option
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,29,I see another angle from like where you can see the chair maybe we was talking about those chairs that you wanted to sit on the right and we have another better chair in the shade so still want to sit on the chair over there or better move on this side
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,30,I think like it should like better like to change like from this side to this side I mean like instead of seeing like you're selling
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,31,I see yeah yeah yeah
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,32,I mean this side and they can like see us directly
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,33,Sitting eating yeah it’s not so
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,34,yeah yeah
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,35,you don’t want to show them like what you are eating I see great you see other store as well do you think you want to try out all the other stores as well we was on food and drink we was on watermelon and shakes now you can see some maybe food
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,36,it’s like how to say like yakitori
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,37,yeah
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,38,like some things like they cook or something
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,39,yeah
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,40,something like rice cooker
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,41,mmm yeah closer look this is what they sell like
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,42,it’s fish and
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,43,Hot sando
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,44,It’s like sandwich it’s like don like rice
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,45,seaweed
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,46,oh it’s seaweed
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,47,to bring back home I guess
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,48,this is the one yeah it's not the shaken watermelons uh another one
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,49,ohh it's like seafood stuff or
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,50,I think they sell some seafood bowl as well
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,51,OK
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,52,mmm but you don't seem to be interested on the the store right in the front in
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,53,in front of me
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,54,yeah yeah this one can you tell me why
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,55,I think like because like their presentation
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,56,what is again
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,57,their presentation
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,58,their presentation I see what is mean the presentation
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,59,how they display their food do you mean the one on the table or
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,60,on the table look
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,61,wasn’t looks so
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,62,yeah it's like it's not interesting I mean
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,63,the hot sandwich not looking so interesting what do you expect to see hot sandwich
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,64,something like how to say aesthetic is something like like more café vibe
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,65,more café vibe
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,66,or bakery vibe
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,67,I see I see I see like not McDonald's with hamburgers
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,68,yeah because like they mix the fish and the
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,69,and the hot sandwiches
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,70,OK it's a little bit yeah not so appetizing
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,71,seeing something raw in the below of the stall
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,72,I guess we back to the chair when you plan to sit down in the beginning yeah so this chair is you said this you didn't like to sit like facing the store so it's like you want to turn around and then looking at the green greenery in the back and do you want to have any others things to for example blocking you from the stores or we see the back of the store now right
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,73,I'm asking like do you mind like having your back turning towards the store or you want to have some kind of
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,74,ohh
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,75,partition to separate
+Imagine Coffee (Matsue),2,video,R03,R03,participant,No,No,76,yeah yeah yeah
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,77,this one make a mistake but anyway
+Imagine Coffee (Matsue),2,video,R03,INT,interviewer,No,No,78,OK so we went here before but anyway tell me if you come here now in the morning thinking that you go to a farmer market
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,1,yes
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,2,when would you like to go first
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,3,"I see a little crowd there, I wanna see there"
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,4,there where is it
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,5,"vegetable look good it's bright I see people behind everything, and I will go talk to them"
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,6,so you're going to go to see the people
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,7,yeah
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,8,not the vegetable
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,9,no vegetable looks good it's the first thing came to my eye catch caught my attention so I go and talk to people like good morning
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,10,and the next store is also selling vegetables why you think you want to go to that one particularly
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,11,I want to I’m lazy so I just want to go 1 and move on to the next
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,12,to the left or to the right
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,13,to the left
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,14,to the left
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,15,yes
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,16,so you're staying in the vegetable corner
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,17,yes I love vegetable
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,18,OK and how do you think about the way they display the vegetable
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,19,ohh it's obvious I I see what they have so as I know I can I know right away what they are selling
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,20,compare between the left and the right which one
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,21,is this one I have no idea
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,22,I'm talking about the vegetable
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,23,the vegetable yeah
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,24,yes the compare
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,25,It’s different store
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,26,yes I can see ohh they have better display I see they have steps they have two shelves display nicely
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,27,yeah
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,28,the other one they have veggie in a box or something I cannot really see
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,29,because it's in shadow
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,30,and also shadow a bit dark but but but not the shadow I think it's because it's in a box it's not display well it's just sitting on it
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,31,on the table and in the box
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,32,got it OK so you're done with the vegetable where you go next
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,33,me ah OK let's go down jog alone just go to the next one to the right
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,34,do you wanna do you know what they're selling
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,35,I have no idea
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,36,like by looking at the the signage
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,37,no one cannot see anything from here so I have to go closer to find out
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,38,what you did to guess what do you think they're selling
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,39,coffee
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,40,coffee OK and so we back to in the beginning of the market
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,41,ohh yeah you see that from the street
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,42,from the street yeah
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,43,how about the store
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,44,the flowers ah I think my family loves flowers so maybe I should pick one ohh anything
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,45,anything
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,46,maybe you don't like everything so which one
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,47,there's 3 or 4 baskets can you just describe the right one ?
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,48,"oh right, the right one with colors the blue one"
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,49,"ah the blue one that’s nice, do you notice the store behind the flower shop or just the flower shop"
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,50,no I'm not paying attention to the store at the back I'm looking at the flowers now
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,51,ohh I see
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,52,now we are at the back of the market how is the view from here
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,53,OK well I think now from here I cannot see any vegetables because I think this place is I see only the back of this place with shelves but now I can see a little bit more on the things it was at the back before I can see they have hotto sando and something else it's on the it's written yeah so maybe I'm here I know but maybe that maybe selling something on food it's like
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,54,would you like to try out some hot food you can come after the vegetable
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,55,ohh maybe I'm I'm not sure I don't like to eat so much in a place like this
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,56,ohh yeah Why
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,57,why so we usually like over price and a commercial I like to cook instead so to cook I like to buy vegetables not prepared food
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,58,ohh so you don't want to buy anything when you go to market
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,59,not in the particular unless it's really attractive
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,60,attractive in terms off
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,61,I cannot cook
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,62,ohh
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,63,things I can cook I cook the things that I can't cook I almost make so I just cook at home
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,64,ohh not particularly I'm open to anything but there's this place that I saw vegetables so why not the vegetables and then eat vegetables a lot
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,65,and then hot sandwhich is something you can make
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,66,hot sandwhich I very good in making hot sandwich too I'm not sure if they can make better sandwiches than me
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,67,right I see
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,68,but anyway why not I'll go have a look it looks really attractive I'll buy it
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,69,OK and the side the store how do you think about this place
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,70,this place yeah I have a lot of space umm but it's too much for the
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,71,for the market
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,72,for the amount of people there's not many people around
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,73,do you expect to have more people
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,74,there are more stuff you can see it's more stuff than the participant
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,75,the product
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,76,people no more people working than the actual participants or like people coming to the market so
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,77,I see
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,78,it's crowded at the back with the people but anyway
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,79,so you think it's better to have more people
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,80,no it's you cannot control that do you
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,81,so are you think it's better to have more shops more stores more people
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,82,yeah maybe hot sando it's pretty expensive
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,83,"yeah 600, makarazuke (rice bowl with fish) 1200 that's a good price must be good"
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,84,what is that the fish
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,85,donburi
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,86,the fish 1200 that's a little bit overpriced yes that's a good pricing
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,87,right so you think you want to try anything here or
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,88,I want to have a look a little bit more that's what I'm getting
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,89,I see but the price is too high
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,90,price is quite quite expensive
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,91,OK OK a little bit closer to the back yeah anything interesting here
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,92,nothing because it's really no signage no pictures it's in it's not nothing I I cannot see anything what's so attractive about what they're selling
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,93,I see yeah cause for that price I pay if I know what I'm getting very beautiful yummy looking product that's actually I find the reason but as far as I can see from this picture I maybe some hot sandwiches in the display so I can take a look but not from here I need to go much closer
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,94,I see this is a view from one of the chair in the back for example if you buy this hot sandwhich and we can sit down to observe
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,95,OK yeah
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,96,so how do you think the the view you can get by sitting and eating there
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,97,ohh it's nice you can see other people umm trying the food umm for working people preparing food
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,98,is it nice to see people preparing food
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,99,yeah I don't mind they doing their job yeah
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,100,alright OK some people doesn't like to see the preparation area but you don't mind because you cook I guess
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,101,I mean what's wrong yeah it's OK
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,102,it's look like camping is it nice
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,103,that's OK
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,104,what is this OK like do you prefer to have his betters or
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,105,close kitchen no I think this is you can something it's good to see how how things are getting prepared
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,106,ohh so it's better
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,107,like it's just stuff style I mean they have no choice right it's a market
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,108,I mean of course we can suggest something much better but you think it's better for people to see what they prepare
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,109,I think so because I think it's also people you know want to see the process of you know how they are doing it not just putting the microwave and then serve you can see they actually ohh I see now it's yeah yeah it's the chairs is actually pointing towards the restaurant not OK why not
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,110,you can be a designer too so
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,111,maybe I wouldn't
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,112,you wouldn't
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,113,I wouldn't why because they can't see the screen at the back and both side at the back why not look at that instead of people cooking
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,114,so you would say that it's nice to say that because yeah
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,115,yeah but I think now it's the
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,116,the greenery is better
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,117,yeah
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,118,I see so it's still at the back then it's not so attractive enough I believe no alright
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,119,any others how about the shop next to that hot sando
+Imagine Coffee (Matsue),2,video,R04,R04,participant,Yes,Yes,120,I don't know what they're selling them but I can see some papers maybe if I got closer up I can see better
+Imagine Coffee (Matsue),2,video,R04,INT,interviewer,Yes,Yes,121,thank you
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,1,"Yes, I remember."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,2,"Uh, anything changed from the last time you saw it?"
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,3,"Uh, yes, I think, um, well, the tents are different."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,4,The tents are different?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,5,"Yeah, I think, maybe for me, the color."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,6,"Ah. Yeah, what was that before?"
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,7,"Like, white one, maybe?"
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,8,"Yeah, yeah, and this one is not so white."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,9,"Yes, and, um, Um, well, maybe I have to remember. Okay. Because I can, I can remember like this, um, this, uh, image, this picture, like the carrots."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,10,Yeah.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,11,"I can remember. Like it doesn't have it. Yes. Like this is more visible. And I also saw like all the products have more pictures. Like I can, I can identify the products now."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,12,Ah. Okay.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,13,"Yeah, that's the thing that I saw like different for now."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,14,"Okay, then tell me, um, again, was that when you come to this market, what, um, does it make you wanted to explore it a bit more than last time?"
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,15,Okay.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,16,"Maybe this kind of color is like more. Uh, for my eyes more beautiful like okay."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,17,It's it's brighter. It's more colorful.
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,18,And which one you want to go first?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,19,"Um, this."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,20,This one. Yeah.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,21,"It's because it has like fruits and this natural things this both also and, and then maybe, maybe this is the first. And then I maybe walk in front of all of these. And now that I saw these, um, boxes, like..."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,22,You know what is it?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,23,"Yes. And maybe in this way, maybe it could be like for me, like curiosity to go, maybe to look what is inside because they are not now, I think that are, are above, like a kind of wood, not in the floor, not directly in the floor. So maybe it's for me now different."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,24,I see.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,25,Mm.
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,26,"Yeah, what is mm?"
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,27,Beautiful. Yes. Okay.
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,28,Beautiful?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,29,"Yes. I think this is really beautiful. Like, if I'm walking and I saw these flowers and all these baskets, the table, like wood, this style. Yes, I definitely go to, to see.Yes."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,30,"Yeah. On this side, we were talking about the box."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,31,"Yes. Mm. I like, uh, I don't know if that changed, but now I saw like more woody things, like with these kind of colors, like brown, like beige, like this kind of colors I think are so good for showing like, um, this farmer market."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,32,"Oh, okay. It's like natural."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,33,"Like natural, yeah, like natural, like. you know, countryside."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,34,Countryside. Yeah. It's really good concept.
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,35,You recognize which food that you wanted to...
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,36,"I don't knnow what is it. Oh, okay. This is like a hot hotel?"
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,37,"Yeah, yeah."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,38,Yes. Now definitely yes. I could go to that place because I think it's good. And it seems like a kind of sandwich or something.
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,39,"Yeah, the sandwich, yeah. So what made you wanted to go try this food? Like, because you see the food or you see the pictures?"
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,40,"Um, maybe because I saw the food."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,41,"Oh, because of the food."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,42,"And then I look for, okay, this, what is this? So then I look the pictures and maybe it looks similar.Attractive to be like, yummy. So I go."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,43,"Ah, I see. Yummy. Okay. Oh, that nice. Anything else? Like, uh, some of the interviewers also mentioned about seeing the price."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,44,"Mm, yes. Yes. The price. Yes. I, I thought about the price when I saw this. Yeah."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,45,Yeah? This one you mean?
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,46,I see. That's really good information.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,47,"Yes, it's good information. It's like you can see what are they selling and also the price so you can decide if go or not go."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,48,I see. Let's closer on that.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,49,"Yes. I, I think I, this kind of thing like that. It's not directly in the floor. It's very different. Really good. Yeah. And..."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,50,Really good?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,51,"Yes. It's good. Mm-hmm. And oh, that things. Well, there it's like a fish, like a Yes. A fish, yes. But it's, it looks also. Like, uh, attractive, but because you can see like the color. Yeah. Yes. And the color of the fish is, is is like..."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,52,Yeah it looks really raw. Natural?
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,53,It's a good idea. How about this?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,54,"I, I can recognize what this is maybe 'cause I don't know. But I also saw this kind of information, but it's not clear to me about what, what it like."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,55,They're selling seaweed. It's written in Japanese letter Wakame.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,56,"Yes, that's maybe why. I'm not, I'm not understanding, but okay. Well, maybe like this, now I can relate to seaweed."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,57,And that is pasta.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,58,"Oh, I think that this is like bakery, like..."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,59,"Yeah, it's a bakery."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,60,"Oh, okay. Yes, it also Okay, that 1, 000 [NAME], but, uh, it's for pasta? Yes. And the boxes have pasta inside?"
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,61,"Yep, yep."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,62,"Ah, okay, yes. So yes, I understand. And then I go for the bakery. Oh, bakery products are also so attractive to me."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,63,Why is it attractive to you?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,64,"Um, just because I like it."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,65,"Ah, you liek bread?"
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,66,"Yes, I like bread."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,67,"And then for morning, it would be nice."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,68,"Yes, bakery and sweet items I like."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,69,"I see. How about the view from this side? Last time you were saying, uh, you didn't like to see the backs of the shops because you wouldn't choose to sit there."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,70,"Yes, but now I think it looks, uh, like, a little bit organized. And..."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,71,Mm hmm. What makes it not look organized?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,72,Mm. Like...
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,73,What makes it look organized for you?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,74,"Oh, okay, like, uh, the position of the tables here. Oh. Yes, it looks like more, uh, the space is more, how can I say? Like clelar? Maybe?"
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,75,"Yeah, yeah."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,76,The shops? Okay.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,77,"And, yes, all the boxes also. If I saw, like, boxes containing the items, and that you can see, like, this kind of hygienic also, it's more attractive."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,78,"I see, I see. And how about the market itself, like? Because you're sitting here, you see half is the seller vendor, and then the other side is like people walking around chatting."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,79,"Yes, I think that maybe from this, this view, um, but maybe it's personal perception, you know."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,80,"Yeah, yeah."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,81,"I like to, now that I see this, it's not so messy."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,82,Yeah.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,83,"And I like to see also, like, uh, the persons, and like, this. Like, I am seeing everything that is around me, so maybe it's good for me now."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,84,I see.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,85,"And I can see also this, sorry, this tree, the people that is coming inside, and all these things. So, now it looks better."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,86,"Now it looks much better. Okay, so this is where you are sitting."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,87,"Ah, okay. Yes. Yes, that's good."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,88,"The last time you said that, oh, you need something because it looks hot."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,89,"Yes. Now, and it's comfortable also because you have the chair and you have the table if you want to eat. So you can put your items there and don't have to, uh, have in your hands."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,90,Your place and hands.
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,91,"Yes. So you can relax a little bit, like, just sit and eat. Yes. And also the umbrella, this kind of umbrellas, it gives like this, um, relax. Yes. Yeah. I think if I'm not, like, remembering in a bad way, these kind of, uh, trees, uh, plants, there weren't before."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,92,"They were, but it's actually maybe, uh, it was too dark."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,93,"Oh, okay. Okay."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,94,"And also, yeah, some people was telling like, it's maybe better to like facing the plan. Like back to the shops rather than like sitting."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,95,Yes.
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,96,How about you?
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,97,"In this place, maybe they wanted to look at the plant instead of looking at the shop."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,98,"Okay. Ah, okay. No, for me, it's, I think it's good in this place."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,99,"Ah, okay."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,100,"Because you are going to sit there in this place and relax. So if plants are, like, in another places, like, maybe it's, they are going to..."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,101,"Oh, I mean, like, uh, the chair is, the back of the chair is towards the plant now. Some people say that it's good. Maybe the guys were sitting here. And like lookig at the plant."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,102,"Oh, okay. No. No, I think, for me, no. No, no, no, no."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,103,No?
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,104,No.
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,105,You still prefer looking at the people?
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,106,"Oh, okay, okay."
+Imagine Coffee (Matsue),3,virtual,R01,R01,participant,No,No,107,"But it's maybe, like, personal perception."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,108,"Yeah, yeah. That's good. I think that's it for this event."
+Imagine Coffee (Matsue),3,virtual,R01,INT,interviewer,No,No,109,"The, this event, the video of this event before, like, a few weeks ago."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,1,"This is, this is not a real photo, right?"
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,2,"Yeah, this is a CGI photo."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,3,CGI photo. I've seen people selling vegetables.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,4,Mm.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,5,"I see people selling Um, um, drink?"
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,6,Yep.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,7,And then I see people. ..
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,8,"Oh, sorry. I guess my, one of my programs just start."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,9,And people buy...
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,10,"So this is the, um, concept of, um, Farmer Market."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,11,"When you see this scene now, do you went... Which shop you want to go first?"
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,12,Hmm. Vegetable first.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,13,Mm vegetable first?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,14,It look more visible.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,15,Look more visible. Mm-hmm .
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,16,"Then I think it look like frozen fish,"
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,17,"frozen Fish. Yeah. Ah, because you saw the box."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,18,Mm-hmm. Frozen box. And then people walking. But they look not interesting. They didn't look at the shop.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,19,Yeah.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,20,Then it's flower.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,21,That's the entrance of the market.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,22,"Flower and then, um, there are some place for drink."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,23,Yeah. Do you want to buy some flowers or go for the drinking place?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,24,Drinking first.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,25,"Drinking first, yeah, you are more food person."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,26,"Okay, yeah, this is also great, eh? This looks great, eh?"
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,27,Yeah.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,28,And then Hot dog.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,29,"Yeah, they sell hot dogs, yeah."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,30,"You told me last time, for Muslim you have to be careful about, uh, food."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,31,"Mm, the meat."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,32,"Maybe fish would be, yeah."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,33,Frozen fish.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,34,Frozen fish is much better. Mm hmm. You really like that left corner. Why?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,35,"Mm. It's, it's a plant, eh?"
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,36,This look really attractive for you? Why?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,37,You mean this one?
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,38,"Yeah, yeah, because your eyes looking on that side a lot."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,39,"I like, I like a plant."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,40,"You like the plant? The plant look really nice, I see. So having plant in the market is a good point. I see. I'm checking out people."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,41,People didn't look at this.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,42,It's really disturbing.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,43,"Okay, now it looks like Ah, yeah, frozen fish. It's fresh, huh? Not frozen."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,44,"Yeah, it's fresh. Can you read Japanese?"
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,45,No I can't.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,46,No you can't.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,47,"I can't. Only kanji. One, two."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,48,Okay
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,49,"Okay, now..."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,50,That is sandwich.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,51,The price look feasible.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,52,Feasible?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,53,The price.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,54,The price okay. So you can eat the sandwich.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,55,"If it's chicken, okay."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,56,"Not hot dog, I guess."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,57,Not hot dog.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,58,Some bakery.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,59,Mm.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,60,Would you like to buy something for the kid if you come to this kind of market?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,61,For the kids?
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,62,Like imagine you going here with the kid
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,63,"Yeah, only for food, huh?"
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,64,Maybe.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,65,Only food I can buy here for for kids.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,66,"Yeah, last time..."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,67,This is just food market.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,68,"Um, there were some veggies in the vegetable in the beginning."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,69,Oh okay. The same place?
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,70,"Yeah, yeah. It was, uh, vegetable, flowers, food, coffee."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,71,Not flowers for wife.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,72,"Yeah, this is look the same now."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,73,Yeah.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,74,"Hmm, I can recognize now."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,75,"Last time you said that you really, uh, enjoying, um, Seeing people cooking, selling. Yeah. Like in your country, they can just sit and..."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,76,"Yeah, it's look It's more attract people to come when the chef doing cooking in that place."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,77,"Yeah. So is it still, uh, giving you that impression?"
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,78,Yes.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,79,Yeah?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,80,But now the chef just stand up.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,81,"They're not doing things. They should do some cooking. If they just stand, it's not so attractive. How about, uh, the place itself? Some people complaining it's, uh, before it was not clean enough."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,82,"Because it's, uh, the artificial, it's more clean now."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,83,"Yeah, it's more clean now. But do you prefer when it's less clean?"
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,84,Do you?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,85,"No, no."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,86,"You prefer when it's, like, clean like this, do you?"
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,87,"Clean, of course."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,88,Okay. This is where you are sitting. How do you think about the seat?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,89,It's proper.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,90,It's proper? Why it's proper?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,91,"Yeah, it has, uh, good chair, good table."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,92,Mm hmm.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,93,"And then, the umbrella."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,94,Mm hmm.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,95,"Force. Protect from sky, from sun."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,96,Yeah. The parasols.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,97,"And then this is, I'm sure this is fresh wood, fresh air."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,98,"Yeah, because it has like plant. It provides fresh air. I see."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,99,It's better.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,100,"It's better. And you still like, like this guy sitting and facing the shops? Or you prefer looking at the greenery?"
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,101,"They enjoy to drink and reading, eh?"
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,102,"Yeah, I mean, like, if it's you who's sitting at this table, since you said that you like plants, would you prefer to, like, turn the chair and looking at the plants instead?"
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,103,Maybe? Yeah?
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,104,You don't really care about looking at the plants?
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,105,No.
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,106,Oh.
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,107,"After, after get the food and drink, uh, maybe."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,108,"yeah, yeah, you prefer..."
+Imagine Coffee (Matsue),3,virtual,R02,R02,participant,No,Yes,109,"You can change to, my focus to the trees."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,110,"Yeah. Much better. Like, see the greenery and things. I see. Great."
+Imagine Coffee (Matsue),3,virtual,R02,INT,interviewer,No,Yes,111,So do you remember the event?
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,1,"Yeah, I still remember the stall."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,2,The stall?
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,3,Yeah.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,4,Which one do you remember?
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,5,"Uh, like when I going outside, going outside from, I mean I came from a station, then the left on my side is a blue stall with a taxi on the left side."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,6,"Ah, not that one. This one is a more smaller scale."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,7,And...
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,8,Another one...
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,9,"And, it's like, uh, how to say, it's like, something like hotdog, with a flag. If I give three different stalls."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,10,"Ah, yeah, that one too. Not that one yet, another one."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,11,Oh. You mean this one?
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,12,"Yeah, this one."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,13,"I think this is my, oh, okay, because it's different people, I mean..."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,14,"Okay, different people."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,15,"I mean, yeah There's a, how to say, a chest to sit over there."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,16,Right. Exactly.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,17,"But I think it's a, it's a different, there's no like this kind of vegetable."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,18,There are no this kind of vegetable? Do you remember there are any vegetable in the previous one?
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,19,I cannot remember it.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,20,But now you see the vegetable.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,21,Yeah. But it seems it's a real vegetable.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,22,"Remember last time you were focusing on maybe the mizu, gori?"
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,23,"Ah, yes, yes, yes."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,24,Because you could read? Something like shaved ice?
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,25,It's over there? I think I can see the image.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,26,"Mmm, yep. But this time you see the veggies better. Would you like to go to the veggies then?"
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,27,"Yeah, then veggies. Maybe we go buy for the watermelon. We see the price and go to the next of the store. And, yeah, I think we buy and then go to sit over there on the chairs on the right side. And also I think I remember the fish, how they put the fish."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,28,"Yeah, yeah, you're talking about the fish."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,29,"But I think it's different because it looks more, Clear and more proper than before. I mean, they put some like boxes."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,30,You you mean something below the boxes?
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,31,Yeah.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,32,Okay. Yeah.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,33,I think last one is there is no that kind of boxes just like polystyrene.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,34,Right. You was not into flowers I believe last time too.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,35,I think this is a new for me.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,36,Why?
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,37,"Ah, right."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,38,"We have one quite similar, but yeah, we did change the stand a little bit."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,39,"Oh, there's a chair over there also."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,40,"Mm, there are some sitting over there as well, um. Also, you can see that last time you didn't recognize some chair over there."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,41,"Yeah, I think I have, yeah."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,42,Mm.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,43,"No, it looks more better than before."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,44,What is make it look better?
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,45,"Because this is a proper place to sit, with shade."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,46,"I see, I see."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,47,"And the store looks nice with the flowers. Oh, this is even a chair over there. It's a bench."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,48,"Yeah, it's a bench over there as well. There are more things that you could see."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,49,"So now you recognize there are three places to sit, which one do you think you prefer to go?"
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,50,"I think, um..."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,51,"And then the other one is like just right next to you, where you stand right now."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,52,"Um, I think, I think if like, if I go with my friends, like three or four, maybe we sit like bench, I think."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,53,"Ah, yeah."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,54,"Yeah, it's more better, like, to have a conversation, chat."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,55,"Or like this one, right?"
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,56,"Oh yeah, yeah, I think it's better that way, yeah."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,57,"That one is also much better, I see. Rather than sitting like in the corner. Mm."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,58,Mm hmm.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,59,You were talking a lot about food last time also.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,60,"Yes, I think this is different, right? I mean how they display the, uh, sandwich"
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,61,Mm hmm.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,62,"I think it's more nice. I think I will go, I think I will go and see. But I still didn't like how they displayed the..."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,63,The fish?
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,64,"Yeah, the fish."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,65,Mm.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,66,"Maybe, um, I think it's, I think the reason is like to, easy for the customers to see, but I think it's better like to put like side, side of the sandwich or something."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,67,Yeah.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,68,"Yeah. Because yeah, the main thing is a sandwich for me."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,69,"Mmm. So, we cannot know which one is main, right?"
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,70,Yes. Yes.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,71,Mm.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,72,"Hot dog is good, but you cannot eat hotdog."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,73,"Oh, yes. Yeah."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,74,I don't know. Maybe.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,75,Okay.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,76,That one is a pasta.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,77,"Oh, it's a pasta."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,78,Mm.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,79,Some bread. Hot sandwich. And I think a pasta
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,80,"And some, seaweed."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,81,"Oh, seaweed."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,82,"So, which one you will go? Hot sandwich? Bread?"
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,83,"Yeah, I think if I can eat the sandwich, then I will, yeah, try to go. Because the price is so high."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,84,"Look really high. I see. And if you buy and then sit next to the shops, um, seeing this scenery."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,85,"I think I will go for, as I said before, I will go for the chairs."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,86,Yeah for the chairs yeah.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,87,yeah. Okay. I think that the view is not...
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,88,The view is not so nice.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,89,"Yeah, it's not so nice from here."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,90,"Oh, okay. What makes it not so nice?"
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,91,"I mean like, the store, I mean like, it's divide your eyes, right? And..."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,92,Mm.
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,93,"Yeah. If you, like, sit either here or there, then, like, your view is a wide, you have a wide view."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,94,"Ah, so the view of here is, like, not so..."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,95,"Yes, yes, yes."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,96,"Okay, it's not so open, yeah."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,97,Not so natural.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,98,"Not so natural? Yeah. Like, it's divided in two."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,99,Yeah.
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,100,"On where you should sit, maybe. Not really, but, like, if people come along, maybe they would sit there."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,101,"I mean, maybe it depends on the people. I mean, what they like and how they want to see it."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,102,"Yeah, yeah."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,103,"Yeah, but I think the chair and the, uh, table is nice to have, yeah."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,104,"Maybe if you go, like, not with friends, but with your girlfriend, only two."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,105,"Um, yeah."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,106,Or alone?
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,107,"Maybe so. Yeah, I think maybe, like, if you, like, I don't know, scene and To read some things, I think it's better to, to sit here."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,108,"Ah, I see."
+Imagine Coffee (Matsue),3,virtual,R03,R03,participant,No,No,109,"Yeah, I mean, instead of focusing for the view, you just read some."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,110,"More like personal space. Yeah, that's good insight. Thank you."
+Imagine Coffee (Matsue),3,virtual,R03,INT,interviewer,No,No,111,"Okay, so do you remember this place?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,1,Yes. Yeah. Imagine coffee.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,2,Yeah. And tell me in your imagination what is different now. What are you looking at? This one?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,3,Yeah. It's foreign. It's foreigners. Hmm. No Japanese.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,4,Yeah.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,5,Yes.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,6,"Anything else about the market that might Well compared to last time,"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,7,"yeah, I can see the signage billboard signage is same signage I mean that this frame for the billboard So that's I know exactly I should look it and I know what I'm doing"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,8,"So last time you said that you wanted to go to the veggie shop, is it still the same?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,9,Veggie shop?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,10,Yeah.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,11,"Veggie shop is maybe a little bit organized, but there's still just only one. Uh, yeah, just on top of the table. So you can just see the one side of it. I don't know what's on the back, behind."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,12,"Oh, but is this still the most attractive place if you go there?"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,13,Is it good enough for farmer's market?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,14,I don't expect anything. Wonderful display.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,15,"I mean, compared to other shops."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,16,"Other shops? Veggie shop? Other shop? Hmm, look a bit empty. I can see through."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,17,Last time you said that you really just go straight to the veggie shop. Is it the same? Are you still want to go straight to the veggie shop?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,18,"Yes, of course."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,19,"Okay. And then, what next you want to go?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,20,"Uh, the veggie shop, um, cold. Ice dessert? No, I don't want. Too cold. Too cold now, yeah? No. Ice cube."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,21,And?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,22,"I don't know. I cannot say. From here, maybe I need to go further. Hmm. But it looks empty. Very empty."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,23,Very empty?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,24,Very empty. No customers.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,25,And now you have some customers.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,26,You are looking at the tents?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,27,Yeah.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,28,Yeah?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,29,"You are looking at the people, the tents?"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,30,"So you are not interested in the market itself? It is a market, no? Yeah, I mean like, um, Item, like what you looking for when you go to the market then? If you are looking at people and the tents."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,31,"Ah, for products."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,32,"Yeah, so why don't you looking at the products this time?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,33,"I already did. Yeah, so. I looked at the vegetable. So, that's all. The rest I cannot see, yeah."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,34,"Ah, okay."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,35,"So, I need to go closer. Uh huh. Yes."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,36,"You still not looking at the products? A bit of the flowers now, yeah?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,37,Yes.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,38,So why are you looking at that flower particularly?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,39,"It's my favorite. It's like garvilla. Maybe my favorite, colorful. Hmm, this one's better."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,40,Last time you was choosing a blue one.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,41,Red's blue one.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,42,I'm just asking.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,43,"No, I think it's okay."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,44,"Unless one day you want something a lot more colorful. Today I closed my eyes. There was maybe, but no, cannot see clearly."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,45,What's wrong with cannot see clearly?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,46,"It's far back. Compared to this time, I think the item was much closer, in a way."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,47,"Uh, but no, too far for me. So I'm just looking at the clothesline. Bigger flower. Yeah, better view than Uh huh. Okay. Oh, I recognize this. What the handle?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,48,"Okay. Hmm, what's there? Mm hmm. Yeah, what you trying to see there?"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,49,Trying to find out what they're selling. Bread.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,50,"Okay. Yes. You're not looking at the signage, maybe they're writing what they're selling."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,51,"I cannot, it's too small."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,52,And how about the big one in front?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,53,Cessando. Cessando.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,54,How about this signage here?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,55,6. 50. That's all I see.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,56,Yeah. So does this price attract you because you were complaining about price last time?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,57,"Price? Um, I don't know. Depends what I'm getting. I cannot see from here what I'm getting for 6. 50. 6. 00. Nice day."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,58,And you're really not focused on the market and stuff. It's really difficult to know what you want to talk about.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,59,"It's a bit far. I can already, this was the same thing on last time."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,60,"Okay. So I just, maybe the bread, I don't know what they're selling.Some egg. Mm-hmm . I don't know. Mm-hmm . Okay. It's, it's only. Yeah, only this, sand, something, and vegetable. And I know there was some selling dessert."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,61,So for you the view is too far?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,62,"Too far, I think. It's, it's, uh, I cannot. Okay, if I go closer I can see wakame. It's below, it's below. To sando? Mmhmm. Hot dog? Uh huh. I have the chair, like last time. Maybe, maybe I will try. Last time, I remember, I had the"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,63,"What, which one you will try?"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,64,I will try hot sando.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,65,"Yeah, and then?"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,66,And veggies. Let's check out the veggies.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,67,You were talking about wakame. You look a lot up that signage on the pole.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,68,Yes. It's like Wakame. Wakame. Yeah.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,69,Oysters? Fish? What a combination. Hot sandwich. What's wrong?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,70,"That's weird, no? Why they have seafood and sandwich. For what? It's not on the display about seafood. What is that in Makanae?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,71,"Makanae? Ah, Makanae don. So it's like, you know, for the lunch. Some internal staff lunch. Staff food, food for the staff."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,72,"What does this mean, food for the staff?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,73,"Makanae, for the It's the name of the fish, though."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,74,"No, no, no, Makanae is like for the, for the stuff. Makanae means staff. Staff in restaurants, they usually make macai the food for the stuff before they start working or after they finish working. I think they are selling things. And they're selling. Selling, yeah."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,75,"They sell, so they made that staff menu to the public menu. So they do that nowadays."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,76,"It's like, is there any way, do you want to eat it?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,77,"Mac and I, not really. I think I'm, I'm on hot side. Already spent too much time looking at it. Thinking about it."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,78,What are you thinking about?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,79,Sandwich.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,80,Mmm.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,81,"Lunch set. Mmm. No, no.With drink. 6. 50. Not bad. Let's see. Oh, but. Hey, look. That is cheaper. 198 for a hot dog. That is cheap. You don't get that price these days."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,82,"So when you get closer, you're not looking at people anymore?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,83,"No, I'm looking at the, now I can see what they're offering, so I'm looking at them. If I have a question, I ask them, so like that. Hey, hey."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,84,Okay. How's the view from here?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,85,So either it's too much or it's very empty.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,86,"Yeah, it's really empty. But it's okay. It's just my opinion."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,87,Can I know your opinion?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,88,"Huh? I can see the whole entire floor, you know."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,89,"So, is it good? Is it not good?"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,90,"Uh, it's tidy. It's okay."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,91,"But you prefer, like, the place, the place will have more things on the floor?"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,92,"You didn't mind to see things on the floor,"
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,93,"so I guess it doesn't make so much Anyway, yeah, but I'm sure they have"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,94,"I really want to know your opinion, not anyway."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,95,"In reality, I think they would have more stuff on the floor, for sure. Anyway, from the side, not very attractive. Yeah, let me see that."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,96,"Last time you were really liking the view from here because you can see people like walking, talking to each other, community and things like that. Oh yeah. But this time you focus on the floor because it's too clean."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,97,Yeah.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,98,Is it?
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,99,And you find that it's not so natural. So you prefer the dirty floor and then people talking. And communicates.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,100,"No, already. I don't know"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,101,"last time it was what you said, so I just wanted to confirm."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,102,"No, but no, no, but Floor, I don't care. Just, just my opinion. Yes. Understand, opinion. It whether, whether I like or not doesn't really matter."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,103,"I'm just, it's matter for people who do the research. So you just have to say your opinion."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,104,"Yeah, I did."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,105,"So do I like it or not? Like, is this your focus is. It's more on the floor because it looks nice, clean and tidy, rather than last time you said that the public was much interesting because they have a lot of people talking to each other."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,106,"Oh, yeah. Maybe it's because I can see the nice cast shadow on the floor. It's attracting my eyes."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,107,"Okay, now about the seat that you might wanted to sit."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,108,Still looking towards the market.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,109,Yeah.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,110,Okay.
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,111,"So how, this time, is it still better to see the bonsai and things at the back rather than focus on the market in front?"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,112,"It's okay. I'm happy because I don't have to have a chair. I can sit down, but I can see that they have the parasol shade. That's nice. It's a bit better."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,113,"Yeah, that's very nice. Maybe it's really bright in the morning or in the summer. Yep. It's okay. So, I don't know. It's nice if I look at the gardens, but"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,114,Still better to make another garden?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,115,"Maybe. Yeah, I think so."
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,116,"But how about, if you're looking at the garden, you cannot see the community, people talking to each other."
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,117,"No, I'm here to enjoy my coffee, so I don't"
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,118,So you don't really care?
+Imagine Coffee (Matsue),3,virtual,R04,R04,participant,Yes,Yes,119,I need to disconnect from the people when I'm having my coffee.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,120,Okay. Thank you. Let's go to the next one.
+Imagine Coffee (Matsue),3,virtual,R04,INT,interviewer,Yes,Yes,121,"First event, do you notice any difference compared to the one that you see before?"
