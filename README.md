@@ -10,6 +10,8 @@ In this hands-on workshop you will analyse both modalities with real (anonymised
 
 ---
 
+📑 **Workshop slides:** [PDF](slides/FMLDS2026_Workshop_SaidVsDid.pdf) · [PowerPoint](slides/FMLDS2026_Workshop_SaidVsDid.pptx)
+
 ## 🚀 Start here
 1. Open a notebook below with **Open in Colab**.
 2. In Colab choose **File → Save a copy in Drive**. The shared notebook is read-only, so your own copy is where you can run and edit.
